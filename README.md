@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I am a web engineer, and hands on!
+
+I like challenges and explore new horizons, because only then I can truely transform the world for better!
+Please check something tangible I've crafted!
+
+Here are something I find particularly appealing.
+
+- Airbnb coding convention
+- The proudest React component
+
+Let's engage in a conversation about your business requirements and the technical solutions I can offer!
 
 <!--
 **WebCrazy003/webcrazy003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
