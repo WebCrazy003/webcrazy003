@@ -1,4 +1,4 @@
-### Hi there 👋 I am a web engineer, and hands on!
+## Hi there 👋 I am a web engineer, and hands on!
 
 I like challenges and explore new horizons, because only then I can truely transform the world for better!
 Please check something tangible I've crafted!
@@ -7,6 +7,13 @@ Here are something I find particularly appealing.
 
 - Airbnb coding convention
 - The proudest React component
+- Some other codes
+
+### Github Profile Trophy
+
+
+🌱 I'm currently learning...
+⚡ Fun fact: I ❤️ �s and Xbox Gaming
 
 Let's engage in a conversation about your business requirements and the technical solutions I can offer!
 
