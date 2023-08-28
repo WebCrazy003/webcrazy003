@@ -7,13 +7,16 @@ Here are something I find particularly appealing.
 
 - Airbnb coding convention
 - The proudest React component
+- Unit testing
+- APIs
+- Also I build some tables on Postgres
 - Some other codes
 
 ### Github Profile Trophy
 
 
-🌱 I'm currently learning...
-⚡ Fun fact: I ❤️ �s and Xbox Gaming
+🌱 I'm currently learning Golang
+⚡ Fun fact: I ❤️ dogs, and like traveling
 
 Let's engage in a conversation about your business requirements and the technical solutions I can offer!
 
