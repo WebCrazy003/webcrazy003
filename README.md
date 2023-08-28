@@ -7,6 +7,7 @@ Here are something I find particularly appealing.
 
 - Airbnb coding convention
 - The proudest React component
+<script src="https://gist.github.com/WebCrazy003/b731ca10ea017feca8e8756da859bd69.js"></script>
 - Unit testing
 - APIs
 - Also I build some tables on Postgres
