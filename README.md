@@ -5,19 +5,27 @@ Please check something tangible I've crafted!
 
 Here are something I find particularly appealing.
 
-- Airbnb coding convention
-- The proudest React component
-https://gist.github.com/WebCrazy003/b731ca10ea017feca8e8756da859bd69
-- Unit testing
+- [Airbnb](https://github.com/airbnb/javascript) JavaScript Style Guide
+  Some rules I used to override
+  * [simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort#readme)
+  * import/newline-after-import
+  * sort-imports
+  * [@typescript-eslint/prefer-as-const](https://github.com/typescript-eslint/typescript-eslint/blob/HEAD/packages/eslint-plugin/docs/rules/prefer-as-const.md)
+  * @typescript-eslint/no-unused-vars
+  * react/jsx-no-useless-fragment
+- The proudest custom React component
+  * [Autocomplete](https://gist.github.com/WebCrazy003/b731ca10ea017feca8e8756da859bd69)
+  * [useForm hook](https://gist.github.com/WebCrazy003/0a07b92d91fdf4c0e48ccdae734f12c8)
+- Some test code(Unit test)
 - APIs
-- Also I build some tables on Postgres
-- Some other codes
+- Migration code
+- My IaC(Infrastructure As Code)
 
 ### Github Profile Trophy
 
 
-🌱 I'm currently learning Golang
-⚡ Fun fact: I ❤️ dogs, and like traveling
+- 🌱 Presently, I'm enhancing my skills in Python and AWS.
+- ⚡ Fun fact: I'm a travel enthusiast who enjoys weekend hikes.
 
 Let's engage in a conversation about your business requirements and the technical solutions I can offer!
 
