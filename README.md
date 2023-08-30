@@ -20,9 +20,7 @@ Here are something I find particularly appealing.
   * [Controller test](https://gist.github.com/WebCrazy003/79e64945c5644f658d8fb7950325e4eb)
   * [Function test](https://gist.github.com/WebCrazy003/c29a5d8fae2377bb6ba3f58a162d8764)
   * [Service test](https://gist.github.com/WebCrazy003/7f8266b307475b4db0832d64d392bf94)
-- APIs
-- Migration code
-- My IaC(Infrastructure As Code)
+- Algorithm Solution
 
 ### Github Profile Trophy
 
