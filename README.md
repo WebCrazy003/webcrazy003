@@ -22,14 +22,14 @@ Please check something tangible I've crafted!
   * @typescript-eslint/no-unused-vars
   * react/jsx-no-useless-fragment
 - The most used UI library : Antd
-- Love React, but also Angular (Angular is my old friend before React :))
+- Love React, but also Angular (Angular is my old friend before React 😄)
 
 ### About me
-- 💬 I have personal interest in canvas manupulation using p5 -> https://github.com/WebCrazy003/p5-canvas
-And like to fork & add custom features : [react-boilerplate](https://github.com/WebCrazy003/react-redux-typescript-boilerplate) and [vuetify-date-picker](https://github.com/WebCrazy003/vuetify-daterange-picker)
+- 💬 I have personal interest in canvas manupulation using p5 : https://github.com/WebCrazy003/p5-canvas  
+  And like to fork & add custom features like [react-boilerplate](https://github.com/WebCrazy003/react-redux-typescript-boilerplate) and [vuetify-date-picker](https://github.com/WebCrazy003/vuetify-daterange-picker)
 - 🌱 Presently, I'm enhancing my skills in Python and AWS.
 - ⚡ Fun fact: I'm a travel enthusiast who enjoys weekend hikes.
-- 📫 When all things are boring, I used to focus on Algorithm solution!
+- 📫 When other things are boring, I used to focus on Algorithm solution to get inner peace!
 
 ### Github Profile Trophy
 
