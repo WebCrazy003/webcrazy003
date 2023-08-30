@@ -32,7 +32,8 @@ Please check something tangible I've crafted!
 - 📫 When other things are boring, I used to focus on Algorithm solution to get inner peace!
 
 ### Github Profile Trophy
-
+<img src="./trophy.svg">
+<img src="./languages.svg">
 
 Let's engage in a conversation about your business requirements and the technical solutions I can offer!
 
