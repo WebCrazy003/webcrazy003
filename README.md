@@ -31,9 +31,16 @@ Please check something tangible I've crafted!
 - ⚡ Fun fact: I'm a travel enthusiast who enjoys weekend hikes.
 - 📫 When other things are boring, I used to focus on Algorithm solution to get inner peace!
 
+<!--
 ### Github Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=webcrazy003)](https://github.com/ryo-ma/github-profile-trophy)
 <img src="./trophy.svg">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webcrazy003)](https://github.com/anuraghazra/github-readme-stats)
 <img src="./languages.svg">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webcrazy003)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 Let's engage in a conversation about your business requirements and the technical solutions I can offer!
 
