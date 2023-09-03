@@ -14,7 +14,7 @@ Please check something tangible I've crafted!
 
 ### Something I like to use in my development!
 - [Airbnb](https://github.com/airbnb/javascript) JavaScript Style Guide
-  Some rules I used to override
+  <br>Some rules I used to override
   * [simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort#readme)
   * import/newline-after-import
   * sort-imports
@@ -22,14 +22,14 @@ Please check something tangible I've crafted!
   * @typescript-eslint/no-unused-vars
   * react/jsx-no-useless-fragment
 - The most used UI library : Antd
-- Love React, but also Angular (Angular is my old friend before React 😄)
+- I love React, but I've also got some history with Angular, my old buddy 😄
 
 ### About me
-- 💬 I have personal interest in canvas manupulation using p5 : https://github.com/WebCrazy003/p5-canvas  
-  And like to fork & add custom features like [react-boilerplate](https://github.com/WebCrazy003/react-redux-typescript-boilerplate) and [vuetify-date-picker](https://github.com/WebCrazy003/vuetify-daterange-picker)
+- 💬 I'm really into playing around with canvas stuff using p5! You can check out my tinkering [here](https://github.com/WebCrazy003/p5-canvas)!  
+  I also enjoy forking projects and adding my own twists to them, just like what I did with [react-boilerplate](https://github.com/WebCrazy003/react-redux-typescript-boilerplate) and [vuetify-date-picker](https://github.com/WebCrazy003/vuetify-daterange-picker)
 - 🌱 Presently, I'm enhancing my skills in Python and AWS.
 - ⚡ Fun fact: I'm a travel enthusiast who enjoys weekend hikes.
-- 📫 When other things are boring, I used to focus on Algorithm solution to get inner peace!
+- 📫 When everything else gets dull, I like to dive into solving algorithms to find my inner zen!
 
 <!--
 ### Github Profile Trophy
