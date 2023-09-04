@@ -3,6 +3,13 @@
 I like challenges and explore new horizons, because only then I can truely transform the world for better!
 Please check something tangible I've crafted!
 
+### About me
+- 🔭 Take a look at the [React Datepicker](https://github.com/WebCrazy003/react-datetime-picker) I've built!
+- 📫 When everything else gets dull, I like to dive into solving [algorithms](https://github.com/WebCrazy003/algorithm-and-data-structure) to find my inner zen!
+- 💬 I'm really into playing around with canvas stuff using p5! You can check out my tinkering [here](https://github.com/WebCrazy003/p5-canvas)!  
+- 🌱 Presently, I'm enhancing my skills in Python and AWS.
+- ⚡ Fun fact: I'm a travel enthusiast who enjoys weekend hikes.
+
 ### Something I've crafted recently ✨ !
 - The proudest custom React component
   * [Autocomplete](https://gist.github.com/WebCrazy003/b731ca10ea017feca8e8756da859bd69)
@@ -23,13 +30,6 @@ Please check something tangible I've crafted!
   * react/jsx-no-useless-fragment
 - The most used UI library : Antd
 - I love React, but I've also got some history with Angular, my old buddy 😄
-
-### About me
-- 💬 I'm really into playing around with canvas stuff using p5! You can check out my tinkering [here](https://github.com/WebCrazy003/p5-canvas)!  
-  I also enjoy forking projects and adding my own twists to them, just like what I did with [react-boilerplate](https://github.com/WebCrazy003/react-redux-typescript-boilerplate) and [vuetify-date-picker](https://github.com/WebCrazy003/vuetify-daterange-picker)
-- 🌱 Presently, I'm enhancing my skills in Python and AWS.
-- ⚡ Fun fact: I'm a travel enthusiast who enjoys weekend hikes.
-- 📫 When everything else gets dull, I like to dive into solving algorithms to find my inner zen!
 
 <!--
 ### Github Profile Trophy
